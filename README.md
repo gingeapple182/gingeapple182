@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a project for Swiggle**
 
-- 🌱 I’m currently learning **HTML, Java, C++ and Unity**
+- 🌱 I’m currently learning **HTML, JavaScript (P5.js), C++ and Unity**
 
 - ⚡ Fun fact **I've played Jedi: Fallen Order and Jedi: Survivor more than 10 times each all the way through**
 
