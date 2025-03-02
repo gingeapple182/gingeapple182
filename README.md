@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gingeapple182</h1>
 <h3 align="center">A student from Cornwall studying Games dev</h3>
 
-- 🔭 I’m currently working on **a project for Swiggle**
+- 🔭 I’m currently working on **a project for Swiggle** and **a personal project in games development**
 
-- 🌱 I’m currently learning **HTML, JavaScript (P5.js), C++ and Unity**
+- 🌱 I’m currently learning **HTML, JavaScript (P5.js), C++, Unity and Godot**
 
 - ⚡ Fun fact **I've played Jedi: Fallen Order and Jedi: Survivor more than 10 times each all the way through**
 
